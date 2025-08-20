@@ -10,6 +10,12 @@
             text-align: center;
             color: white;
         }
+
+        .category-hero-content{
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+        }
         
         .category-hero-content h1 {
             font-size: clamp(2.5rem, 6vw, 4rem);
